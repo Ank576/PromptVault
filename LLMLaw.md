@@ -25,3 +25,5 @@ An AI-powered legal research assistant leveraging Google's Gemini LLM. Designed 
 
 This repository aims to provide legal professionals, law firms, and AI developers a robust foundation for building scalable, reliable AI legal assistants based on the Gemini LLM.
 
+## Intent Analysis 
+[Quill Research Intent Data](data/Quill-Research-Intent.xlsx)
