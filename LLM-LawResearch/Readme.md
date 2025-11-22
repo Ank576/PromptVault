@@ -24,7 +24,7 @@ This modular approach enables customization, improves retrieval-augmented genera
 
 - `/prompts` - Contains prompt templates with detailed instructions and examples.
 - `/intents` - Defines user intents with metadata and mapping to prompts.
-- `/data` - Supplemental datasets like research intent spreadsheets (e.g. Quill-Research-Intent.xlsx).
+- [Intent Data](LLM-LawResearch/Intent&Purpose.xlsx) - Supplemental datasets like research intent spreadsheets.
 - `/examples` - Sample queries and LLM responses to illustrate proper use.
 
 ## Usage
