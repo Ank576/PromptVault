@@ -50,9 +50,7 @@ Transform vague prompts into **production-ready AI systems** through structured 
 
 | Format | Link | Size |
 |--------|------|------|
-| **[Excel]** | [COSTAR_Framework_Complete.xlsx](COSTAR_Framework_Complete.xlsx) | 16KB |
-| **[Word]** | [COSTAR_Framework_Complete.docx](COSTAR_Framework_Complete.docx) | 24KB |
-| **[CSV Pack]** | [csv/COSTAR_csv_bundle.zip](csv/COSTAR_csv_bundle.zip) | 8KB |
+| **[Excel]** | [COSTAR_Framework_Complete.xlsx](https://github.com/Ank576/PromptVault/blob/main/CoSTAR%20Method/COSTAR_Framework_Complete%20(1).xlsx)| 16KB |
 
 ## 🛠️ Usage Workflow
 
@@ -65,8 +63,5 @@ Transform vague prompts into **production-ready AI systems** through structured 
 - **Fintech** → Regulatory-compliant outputs
 - **Teams** → Collaborative prompt refinement
 
-## 🤝 Contributing
-
-### **Quick Contributions (5 mins)**
 
 
